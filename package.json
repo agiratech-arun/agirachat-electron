@@ -70,7 +70,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "electron": "^1.4.15",
+    "electron": "^9.1.0",
     "electron-builder": "^12.3.1",
     "electron-mocha": "^3.3.0",
     "gulp": "^3.9.1",
